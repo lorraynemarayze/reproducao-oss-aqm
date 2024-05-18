@@ -1,0 +1,31 @@
+Título do trabalho
+Nome dos alunos e afiliação
+
+Resumo
+- Falar do objetivo da reprodução/replicação, o que (qual análise) está sendo reproduzido/replicado e síntese de qual o resultado obtido.
+
+1. Introdução
+- apresentar o contexto em que o artigo original foi feito e contexto em que a reprodução/replicação está sendo feita;
+- por que é relevante ou importante fazer tal reprodução/replicação na Engenharia de Software.
+
+2. Materiais e métodos
+- todos os detalhes  (incluindo equações e/ou algoritmos) da análise/experimento definido no artigo original e que será replicado/reproduzido
+- materiais e métodos que foram feitos/usados pelo alunos para a replicação e reprodução
+- deve constar o link de um repositório público no GitHub onde deve estar todo material (dados, códigos, scripts etc) que deram base ao trabalho feito. Tudo que é necessário para reproduzir o trabalho precisa estar no repositório.
+
+3. Resultados
+- Apresentar e discutir o resultado (gráfico e/ou tabela) do artigo original
+- Apresentar e discutir o resultado (gráfico e/ou tabela) da replicação/reprodução feita pelos alunos
+- Fazer uma análise comparando o resultado do estudo original com o replicado/reproduzido
+
+4. Conclusões
+- Apresentar a conclusão dos alunos sobre o resultado da reprodução/replicação
+
+Agradecimentos
+- Incluir o texto “Este artigo foi elaborado como parte da atividade de reprodução ou replicação da disciplina de Introdução à Pesquisa em Informática, lecionada pelo professor Lesandro Ponciano, no curso de Engenharia de Software da PUC Minas, no turno matutino, no primeiro semestre de 2024. O texto foi produzido usando a ferramenta Overleaf e o link público do texto é XXXX”
+
+Referências
+- Incluir todas as referências citadas no texto, o artigo original precisa constar nas referências
+- É obrigatório incluir pelo menos 1 referência e no máximo 5.
+
+//O artigo deve ter no mínimo 2 páginas e no máximo 3 páginas.
