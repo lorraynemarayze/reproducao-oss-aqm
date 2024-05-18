@@ -1,0 +1,48 @@
+// Base CSS
+@import 
+'./base/reset',
+'./base/color',
+'./base/body';
+
+// Utils
+@import 
+'./utils/common',
+'./utils/to-rem',
+'./utils/margin',
+'./utils/padding',
+'./utils/scrollable',
+'./utils/color',
+'./utils/flex';
+
+// Components
+@import 
+'./components/header',
+'./components/item-list',
+'./components/typography',
+'./components/project',
+'./components/search',
+'./components/navbar',
+'./components/button',
+'./components/table',
+'./components/input',
+'./components/tooltip',
+'./components/select',
+'./components/list';
+
+.App {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.App-container {
+  background-color: white;
+  width: 80%;
+  height: 80%;
+  font-size: calc(10px + 2vmin);
+}
+
+.container {
+  padding: 20px;
+  height: 100%;
+}

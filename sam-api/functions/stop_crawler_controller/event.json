@@ -1,0 +1,55 @@
+{
+    "Records": [
+        {
+            "messageId": "a6d412e9-d86a-4758-91e7-832501c5bb47",
+            "receiptHandle": "AQEBcr3/41C/I46UPSmyi1xJsbPAMrZXvpGhllE4UV6P/jnKz8oYrb2K4jpNZ4zKTopmWRlAyzZ+YfSfQL+4VQTZtX33ALEoQO9XBrCw9SBxBBrHDtF2oTtLo7oG8QsAWbVnxirNL3pa6XzGAzoevQsgPLJP7BIzpe9/4XyKn9WS41n2MdgMeX/JAPq+uj05ygx07EL0CgFoK/kWJTFMgJ+l9+z8qMEkHWIC0HmN1ObzF7mF4C5hXLno/Rs8Wh5CGXU72WS320jMDo5vVGq3BCoCsF8JcJKxmMf/csUbsru6jQN0ZlQutlKVoMKm4fQLMlvjWWnwrzjio0yZ5skQ/bNdSQ==",
+            "body": "core_team_status",
+            "attributes": {
+                "ApproximateReceiveCount": "1",
+                "SentTimestamp": "1662608588416",
+                "SequenceNumber": "18872371872344047872",
+                "MessageGroupId": "next.js",
+                "SenderId": "AROAYVT72YM62J6U3OWVB:sam-app-GetCoreTeamFunction-rq0enkaVqoWO",
+                "MessageDeduplicationId": "vercel/next.js/core-team.json",
+                "ApproximateFirstReceiveTimestamp": "1662608625203"
+            },
+            "messageAttributes": {
+                "owner": {
+                    "stringValue": "vercel",
+                    "stringListValues": [],
+                    "binaryListValues": [],
+                    "dataType": "String"
+                },
+                "function_name": {
+                    "stringValue": "get_core_team",
+                    "stringListValues": [],
+                    "binaryListValues": [],
+                    "dataType": "String"
+                },
+                "repo": {
+                    "stringValue": "next.js",
+                    "stringListValues": [],
+                    "binaryListValues": [],
+                    "dataType": "String"
+                },
+                "upload_url": {
+                    "stringValue": "vercel/next.js/core-team.json",
+                    "stringListValues": [],
+                    "binaryListValues": [],
+                    "dataType": "String"
+                },
+                "status": {
+                    "stringValue": "completed",
+                    "stringListValues": [],
+                    "binaryListValues": [],
+                    "dataType": "String"
+                }
+            },
+            "md5OfBody": "ad460c52d82dafb5846cee8e9e1631a4",
+            "md5OfMessageAttributes": "aa009791c09d1045fb79999aa60c23f4",
+            "eventSource": "aws:sqs",
+            "eventSourceARN": "arn:aws:sqs:ap-southeast-1:596194804541:sam-app-StopCrawlerQueue-a8ZXMk620MMk.fifo",
+            "awsRegion": "ap-southeast-1"
+        }
+    ]
+}
